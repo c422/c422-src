@@ -14,4 +14,4 @@
 
 ## 内容更新与维护
 
-官网内容更新将通过对本仓库 **Pull Request** 来进行，详细的 Pull Request 方案，请查看 CONTRIBUTING.md
+官网内容更新将通过对本仓库 **Pull Request** 来进行，详细的 Pull Request 方案，请查看 [CONTRIBUTING.md](https://github.com/c422/c422-src/blob/master/CONTRIBUTING.md)
