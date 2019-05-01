@@ -70,3 +70,7 @@ a:hover {
 .navbar-default .navbar-nav li a:hover {
     background-color: #333333;
 }
+
+.fa-bars:before {
+    color: #ffffff;
+}
