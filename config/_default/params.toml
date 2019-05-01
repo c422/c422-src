@@ -57,7 +57,7 @@ address = "Tianjin Normal University, No.393, Extension of Bin Shui West Road, X
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "github", icon_pack = "fab", name = "Github - C422", link = "hhttps://github.com/c422"},
+  {icon = "github", icon_pack = "fab", name = "Github - C422", link = "https://github.com/c422"},
 ]
 
 # Display a map.
