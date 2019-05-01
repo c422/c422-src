@@ -2,14 +2,13 @@
 
 set -e
 
-echo $GITHUB_TOKEN > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
 git config --global user.email "hawkinszhao@outlook.com"
 git config --global user.name "HawkinsZhao"
 git config --global push.default simple
 
 rm -rf deployment
-git clone -b master https://github.com/c422/c422.github.io deployment
+git clone -b master https://hawkinszhao:$GITHUB_TOKEN@github.com/c422/c422.github.io deployment
 rsync -av --delete --exclude ".git" public/ deployment
 cd deployment
 git add -A
