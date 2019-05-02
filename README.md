@@ -14,4 +14,30 @@
 
 ## 内容更新与维护
 
+所有的开发工作均是基于 Git 和 GitHub 的，所以请学习好相关基础知识
+
+### 本地开发
+
+首先安装 [hugo](https://github.com/gohugoio/hugo)
+
+获取代码
+
+```bash
+git clone https://github.com/c422/c422-src.git
+cd c422-src
+
+# 更新 submodule
+git submodule update --init --recursive
+```
+
+启动开发服务器
+
+```bash
+./view.sh
+```
+
+用浏览器打开 http://localhost:1313 可以看到实时更新的页面
+
+### 官网更新
+
 官网内容更新将通过对本仓库 **Pull Request** 来进行，详细的 Pull Request 方案，请查看 [CONTRIBUTING.md](https://github.com/c422/c422-src/blob/master/CONTRIBUTING.md)
