@@ -53,4 +53,4 @@ user_groups = ["主要成员"]
 #   link = "files/cv.pdf"
 
 +++
-I am a senior undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
+我是天津师范大学软件工程专业二年级本科生， 作为天津师范大学 iOS club 核心成员参加了 2018 Nanjing Apple Summer Camp. 现在天津师范大学认知与情感计算实验室赵子平导师指导下进行语音情感识别方向的研究。更多关于我的信息:https://dragonjiao.github.io/

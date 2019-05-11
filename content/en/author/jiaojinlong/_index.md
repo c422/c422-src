@@ -53,5 +53,4 @@ user_groups = ["Current Members"]
 #   link = "files/cv.pdf"
 
 +++
-
-I am a senior undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
+I am a undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a core member of iOS club and I have attended Apple Summer Camp  Nanjing of China, 2018. Additionaly, I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
