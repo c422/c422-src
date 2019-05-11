@@ -15,5 +15,4 @@ image = ""
 caption = ""
 
 +++
-
-TODO: Exploring.
+Introduction: Using hierarchical attention mechanisms at the level of sentences and words to improve the accuracy of speech emotion recognition. This project is supported by National Natural Science Foundation.

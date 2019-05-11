@@ -20,7 +20,7 @@ organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.e
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "My research interests include affective computing、 marchine learning、 deep learning."
+bio = "My research interests include affective computing, machine learning and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 

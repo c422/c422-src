@@ -20,7 +20,7 @@ organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" 
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "My research interests include affective computing、 marchine learning、 deep learning."
+bio = "My research interests include affective computing, machine learning and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
@@ -53,6 +53,4 @@ user_groups = ["主要成员"]
 #   link = "files/cv.pdf"
 
 +++
-
-I am a senior undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.
-More info about me: https://dragonjiao.github.io/
+I am a senior undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
