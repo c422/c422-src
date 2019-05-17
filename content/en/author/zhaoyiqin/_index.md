@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I am a hacker and a researcher. My research interests include affective computing and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "hawkinszhao@outlook.com"
@@ -38,6 +38,6 @@ user_groups = ["Current Members"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior undergaduate software engineeering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao. I am also a former Baidu FE intern at DuerOS department, Baidu, Inc. My mentor is Sen Li and Yangyang Zhang, they are smart and respectful engineers.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. I also have a few creative open source application projects, like my unique personal website design.
