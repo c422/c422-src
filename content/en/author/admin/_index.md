@@ -41,6 +41,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+We are C422 studio at Department of Computer and Information Engineering, Tianjin Normal University. Our community members mostly came from undergraduate students at our collage. Our activities are rooted in the combination of creativity development, academic research and more advanced technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+To accomplish this mission, we aim for technologies, design and high level research by a constructive, positive, innovative-driven attitude in all the work we undertake.
