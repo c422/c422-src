@@ -15,5 +15,5 @@ Weekly keynote, topic: **Paper writing and CI**.
 
 ## PPT 
 
-The topic I shared is Paper writing and Continuous Integration.Please refer to the attachment for details https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-16-wangpenghao/学习小结0516-王鹏浩.pptx
+The topic I shared is Paper writing and Continuous Integration.Please refer to the attachment for details： [Download](https://coden-cdn.sfo2.cdn.digitaloceanspaces.com/c422/weekly-keynote/2019-05-16-wangpenghao/学习小结0516-王鹏浩.pptx)
 
