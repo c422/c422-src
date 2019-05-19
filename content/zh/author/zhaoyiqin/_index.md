@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a hacker and a researcher. My research interests include affective computing and machine learning."
+bio = "天津师范大学2015级软件工程本科生，主要研究方向：情感计算，机器学习。"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "hawkinszhao@outlook.com"
