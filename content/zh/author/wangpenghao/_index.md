@@ -16,15 +16,15 @@ role = ""
 
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 
-organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" }]
+organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "My research interests include affective computing, machine learning and deep learning."
+bio = "My research interests include affective computing and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
-email = "GoldragonJiao@outlook.com"
+email = "15560934896@163.com"
 
 # Organizational groups that you belong to (for People widget)
 
@@ -53,5 +53,4 @@ user_groups = ["主要成员"]
 #   link = "files/cv.pdf"
 
 +++
-我是天津师范大学软件工程专业的二年级本科生， 现于天津师范大学认知与情感计算实验室赵子平导师的指导下进行语音情感识别方向的研究。
-
+我是天津师范大学软件工程专业的二年级本科生，天津师范大学IOS Club的核心成员。现于天津师范大学认知与情感计算实验室赵子平导师指导下进行语音情感识别方向的研究。
