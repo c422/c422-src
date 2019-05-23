@@ -4,7 +4,7 @@ summary = "我们在李超老师的带领下，针对目前我国养老行业在
 
 date = "2019-03-10T00:00:00+00:00"
 tags = ["Project", "Pension"]
-authors = ["lisen"]
+authors = ["lisen", "jiaojinlong"]
 
 [header]
 image = ""
