@@ -6,7 +6,7 @@ name = "Penghao Wang"
 
 # Username (this should match the folder name)
 
-authors = ["Penghao Wang"]
+authors = ["wangpenghao"]
 
 # Role/position
 
