@@ -4,7 +4,7 @@ summary = "In view of the problems existing in the credit information of China's
 
 date = "2019-03-10T00:00:00+00:00"
 tags = ["Project", "Pension"]
-authors = ["lisen"]
+authors = ["lisen", "jiaojinlong"]
 
 [header]
 image = ""

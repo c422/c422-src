@@ -52,5 +52,12 @@ user_groups = ["Current Members"]
 
 #   link = "files/cv.pdf"
 
-+++
-I am a undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a core member of iOS Club and I have attended Apple Summer Camp  Nanjing of China, 2018. Additionaly, I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
++++ 
+I am an undergraduate software engineering student at Tianjin Normal University, Tianjin, China. 
+I am a core member of iOS Club and I have attended Apple Summer Camp  Nanjing of China, 2018. Additionaly, I am a key member of the Cognitive and Affective Computing Lab from Center for Affective Intelligence International Studies at my TJNU, advised by Prof. Ziping Zhao.
+
+Currently participating in the project development of “support theory and innovation model of healthy pension cross-border service”.
+
+My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. 
+
+More info about me: https://dragonjiao.github.io/
