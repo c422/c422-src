@@ -9,21 +9,21 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Innovation & Entrepreneur"
+role = "创新创业工作室"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Tianjin Normal University", url = "" } ]
+organizations = [ { name = "天津师范大学", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 
 # Social/Academic Networking

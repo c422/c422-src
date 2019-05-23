@@ -38,6 +38,6 @@ user_groups = ["Current Members"]
 
 +++
 
-I am a senior undergaduate software engineeering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao. I am also a former Baidu FE intern at DuerOS department, Baidu, Inc. My mentor is Sen Li and Yangyang Zhang, they are smart and respectful engineers.
+I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
 
-My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. I also have a few creative open source application projects, like my unique personal website design.
+My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below. There are also a few creative open source application projects.
