@@ -2,11 +2,11 @@
 
 # Display name
 
-name = "焦金龙"
+name = "王鹏浩"
 
 # Username (this should match the folder name)
 
-authors = ["jiaojinlong"]
+authors = ["wangpenghao"]
 
 # Role/position
 
@@ -16,15 +16,15 @@ role = ""
 
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 
-organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" }]
+organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "天津师范大学2017级软件工程本科生，主要研究方向：情感计算，机器学习。"
+bio = "My research interests include affective computing and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
-email = "GoldragonJiao@outlook.com"
+email = "15560934896@163.com"
 
 # Organizational groups that you belong to (for People widget)
 
@@ -53,8 +53,4 @@ user_groups = ["主要成员"]
 #   link = "files/cv.pdf"
 
 +++
-我是天津师范大学软件工程专业二年级本科生，作为天津师范大学 iOS Club 核心成员参加了 2018 Nanjing Apple Summer Camp. 目前在天津师范大学情感智能国际研究中心认知与情感计算课题组赵子平导师指导下进行语音情感识别方向的研究。
-
-同时现在参与了“健康养老金跨境服务支持理论与创新模式”项目开发。
-
-更多关于我的信息:https://dragonjiao.github.io/
+我是天津师范大学软件工程专业的二年级本科生，天津师范大学IOS Club的核心成员。现于天津师范大学认知与情感计算实验室赵子平导师指导下进行语音情感识别方向的研究。
