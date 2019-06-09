@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "赵一勤"
+name = "刘靖禹"
 
 # Username (this should match the folder name)
-authors = ["zhaoyiqin"]
+authors = ["liujingyu"]
 
 # Role/position
 role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
+organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a hacker and a researcher. My research interests include affective computing and machine learning."
+bio = "天津师范大学计算机科学与技术专业 2016 级本科生，主要研究方向：iOS 开发。"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "hawkinszhao@outlook.com"
+email = "Arabaku@126.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -37,7 +37,13 @@ user_groups = ["主要成员"]
 #   link = "files/cv.pdf"
 
 +++
+             
+天津师范大学计算机科学与技术专业 2016 级本科生，主要研究方向：iOS 开发。
 
-I am a senior undergaduate software engineeering student at Tianjin Normal University, Tianjin, China. I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao. I am also a former Baidu FE intern at DuerOS department, Baidu, Inc. My mentor is Sen Li and Yangyang Zhang, they are smart and respectful engineers.
+天津师范大学 iOS Club 技术讲师。
 
-My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. I also have a few creative open source application projects, like my unique personal website design.
+iOS App《Get社交》独立开发者。
+
+目前正在参与美国南加州大学“Online Habit Game”实验项目的开发。
+
+更多关于我的信息：https://fix.moe。

@@ -1,56 +1,47 @@
 +++
-
 # Display name
-
-name = "Jinlong Jiao"
+name = "Jin Yang"
 
 # Username (this should match the folder name)
-
-authors = ["jiaojinlong"]
+authors = ["jinyang"]
 
 # Role/position
-
 role = ""
 
 # Organizations/Affiliations
-
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-
-bio = "My research interests include affective computing, machine learning and deep learning."
+bio = "you make the failure complete when you stop trying!"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-
-email = "GoldragonJiao@outlook.com"
+email = "kimyang95@163.com"
 
 # Organizational groups that you belong to (for People widget)
-
 #   Set this to `[]` or comment out if you are not using People widget.
-
 user_groups = ["Current Members"]
 
+
 # Social/Academic Networking
-
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
+
 # Link to a PDF of your resume/CV from the About widget.
-
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-
 # [[social]]
-
 #   icon = "cv"
-
 #   icon_pack = "ai"
-
 #   link = "files/cv.pdf"
 
 +++
-I am a undergraduate software engineering student at Tianjin Normal University, Tianjin, China. I am a core member of iOS Club and I have attended Apple Summer Camp  Nanjing of China, 2018. Additionaly, I am a key member of the Cognitive and Affective Computing Lab at my TJNU, advised by Prof. Ziping Zhao.More info about me: https://dragonjiao.github.io/
+
+Now I am studying software engineering at Tianjin Normal University. I have a strong interest in computer programming languages ​​and machine learning models, and like to brainstorm and organize my own knowledge system.
+
+Competition experience: As a project member, I participated in the tenth section of China University Student Service Outsourcing Innovation and Entrepreneurship Competition. As the project leader, I established Tianjin Normal University School-level Daiso Project.
+
+Research direction: The main research direction at present is machine learning and computer networks.
+
+More info about me: http://kimyang.cn
