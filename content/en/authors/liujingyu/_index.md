@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Yiqin Zhao"
+name = "Jingyu Liu"
 
 # Username (this should match the folder name)
-authors = ["zhaoyiqin"]
+authors = ["liujingyu"]
 
 # Role/position
 role = ""
@@ -13,10 +13,10 @@ role = ""
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a hacker and a researcher. My research interests include affective computing and machine learning."
+bio = "A 2016 undergraduate student major in Computer Science and Technology at Tianjin Normal University. The main research direction: iOS development."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "hawkinszhao@outlook.com"
+email = "Arabaku@126.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -38,6 +38,12 @@ user_groups = ["Current Members"]
 
 +++
 
-I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
+A 2016 undergraduate student major in Computer Science and Technology at Tianjin Normal University. The main research direction: iOS development.
 
-My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below. There are also a few creative open source application projects.
+TJNU iOS Club Technical Lecturer.
+
+Independent developer of iOS App "Get Social".
+
+Currently participating in the development of the "Online Habit Game" experimental project at the University of Southern California.
+
+More information about me: https://fix.moe.

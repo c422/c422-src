@@ -1,26 +1,26 @@
 +++
 # Display name
-name = "杨金"
+name = "赵一勤"
 
 # Username (this should match the folder name)
-authors = ["jinyang"]
+authors = ["zhaoyiqin"]
 
 # Role/position
 role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
+organizations = [ { name = "天津示范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "生命不息，探索不止"
+bio = "天津师范大学2015级软件工程本科生，主要研究方向：情感计算，机器学习。"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "kimyang95@163.com"
+email = "hawkinszhao@outlook.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["主要成员"]
+user_groups = ["往届成员"]
 
 
 # Social/Academic Networking
@@ -38,8 +38,6 @@ user_groups = ["主要成员"]
 
 +++
 
-现就读于天津师范大学软件工程专业。我对计算机编程语言和机器学习模型有着浓厚的兴趣，且日常喜欢头脑风暴和整理自身的知识体系。
+I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
 
-竞赛经历:作为项目成员参加了第十节中国大学生服务外包创新创业大赛；作为项目负责人成立天津师范大学校级大创项目。
-
-科研方向：目前主要的研究方向是机器学习与计算机网络。
+My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below. There are also a few creative open source application projects.

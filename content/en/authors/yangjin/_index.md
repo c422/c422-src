@@ -44,3 +44,4 @@ Competition experience: As a project member, I participated in the tenth section
 
 Research direction: The main research direction at present is machine learning and computer networks.
 
+More info about me: http://kimyang.cn
