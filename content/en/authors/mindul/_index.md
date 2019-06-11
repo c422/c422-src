@@ -30,7 +30,7 @@ email = "mindul@qq.com"
 
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = ["主要成员"]
+user_groups = ["Current Members"]
 
 # Social/Academic Networking
 
@@ -54,7 +54,7 @@ user_groups = ["主要成员"]
 
 +++
 
-**王小多**
+**Mindul**
 Tianjin normal university computer science and technology major 2016 undergraduate
 My main interests are operating systems and computer networks
 At present, I'm studying embedded software development
