@@ -1,5 +1,5 @@
 +++
-title = "[ Award ] The Third Prize of the 2018 /"Cybert Cup/" National College Students Intelligence Interconnection Innovative Application Design Competition"
+title = "[ Award ] The Third Prize of the 2018 Cybert Cup National College Students Intelligence Interconnection Innovative Application Design Competition"
 
 summary = "The National College Students Intelligence Interconnection Innovative Application Design Competition is co-sponsored by the Computer Specialty Teaching Steering Committee of the Ministry of Education, the National College Computer Education Research Association and the China Electronics Society."
 
