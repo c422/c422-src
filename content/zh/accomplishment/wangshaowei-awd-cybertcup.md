@@ -4,7 +4,7 @@ summary = "全国大学生智能互联创新应用设计大赛由教育部高等
 
 date = "2018-08-17T00:00:00+00:00"
 tags = ["Award", "赛佰特·2018", "树莓派"]
-authors = ["mindul"]
+authors = ["wangshaowei"]
 
 [header]
 image = ""

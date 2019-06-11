@@ -2,11 +2,11 @@
 
 # Display name
 
-name = "王小多"
+name = "王绍威"
 
 # Username (this should match the folder name)
 
-authors = ["mindul"]
+authors = ["wangshaowei"]
 
 # Role/position
 
@@ -54,7 +54,9 @@ user_groups = ["主要成员"]
 
 +++
 
-**王小多**
-天津师范大学计算机科学与技术专业2016级本科生 
-主要兴趣集中在操作系统、计算机网络
-目前正在潜心学习嵌入式软件开发
+**王绍威**
+天津师范大学计算机科学与技术专业2016级本科生。
+
+主要兴趣集中在操作系统、计算机网络。
+
+目前正在潜心学习嵌入式软件开发。

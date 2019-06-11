@@ -5,7 +5,7 @@ summary = "The National College Students Intelligence Interconnection Innovative
 
 date = "2018-08-17T00:00:00+00:00"
 tags = ["Award", "CybertCup·2018", "Raspberry Pi"]
-authors = ["mindul"]
+authors = ["wangshaowei"]
 
 [header]
 image = ""

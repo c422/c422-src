@@ -4,7 +4,7 @@ summary = "华北五省及港澳台大学生计算机应用大赛由华北五省
 
 date = "2018-12-20T00:00:00+00:00"
 tags = ["Award", "鑫华台·2018", "Arduino"]
-authors = ["mindul"]
+authors = ["wangshaowei"]
 
 [header]
 image = ""

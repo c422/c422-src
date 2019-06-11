@@ -2,11 +2,11 @@
 
 # Display name
 
-name = "Mindul Wang"
+name = "ShaoWei Wang"
 
 # Username (this should match the folder name)
 
-authors = ["mindul"]
+authors = ["wangshaowei"]
 
 # Role/position
 
@@ -54,7 +54,9 @@ user_groups = ["Current Members"]
 
 +++
 
-**Mindul**
-Tianjin normal university computer science and technology major 2016 undergraduate
-My main interests are operating systems and computer networks
-At present, I'm studying embedded software development
+**wangshaowei**
+Tianjin normal university computer science and technology major 2016 undergraduate.
+
+My main interests are operating systems and computer networks.
+
+At present, I'm studying embedded software development.
