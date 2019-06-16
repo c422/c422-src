@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "天津师范大学软件学院软件工程专业2017级本科生，天津师范大学认知与情感计算研究中心本科生组成员，目前正在参与“健康养老跨界服务的支撑理论与创新模式”的项目开发"
+bio = "代码简化生活"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "tjnulisen@outlook.com"
