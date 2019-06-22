@@ -10,7 +10,7 @@ role = "2019届"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "天津示范大学", url = "http://www.tjnu.edu.cn" } ]
+organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "天津师范大学2015级软件工程本科生，主要研究方向：情感计算，机器学习。"
