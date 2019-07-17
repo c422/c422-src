@@ -4,7 +4,7 @@ summary = "2018 Tianjin School level National Undergraduate Training Programs fo
 
 date = "2018-04-11T00:00:00+00:00"
 tags = ["Project", "National"]
-authors = ["yangjin"]
+authors = ["yangjin","liushuxuan"]
 
 [header]
 image = ""

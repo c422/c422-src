@@ -4,7 +4,7 @@ summary = "China University Student Service Outsourcing Innovation and Entrepren
 
 date = "2018-04-30T00:00:00+00:00"
 tags = ["Award", "Deep Learning", "Wechat Applet"]
-authors = ["yangjin"]
+authors = ["yangjin","liushuxuan"]
 
 [header]
 image = ""

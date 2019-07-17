@@ -4,7 +4,7 @@ summary = "中国大学生服务外包创新创业大赛是由中国商务部、
 
 date = "2018-04-30T00:00:00+00:00"
 tags = ["Award", "Deep Learning", "WeChat applet"]
-authors = ["yangjin"]
+authors = ["yangjin","liushuxuan"]
 
 [header]
 image = ""
