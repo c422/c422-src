@@ -4,7 +4,7 @@ summary = "2018年天津师范大学校级大学生创新创业项目"
 
 date = "2018-04-11T00:00:00+00:00"
 tags = ["Project", "Deep Learning","WeCaht applet"]
-authors = ["yangjin"]
+authors = ["yangjin","liushuxuan"]
 
 [header]
 image = ""
