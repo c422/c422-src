@@ -42,4 +42,4 @@ I am a undergaduate Software Engineeering student in Tianjin Normal University.
 
 I participated in the tenth section of China University Student Service Outsourcing Innovation and Entrepreneurship Competition and Tianjin Normal University School-level Daiso Project.
 
-Currently working on ios development.
+Currently working on iOS development.
