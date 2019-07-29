@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "天津师范大学软件工程专业2017级本科生"
+bio = "天津师范大学软件工程专业 2017 级本科生"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "915825980@qq.com"
@@ -38,11 +38,11 @@ user_groups = ["主要成员"]
 
 +++
 
-天津师范大学软件工程专业2017级本科生
+天津师范大学软件工程专业 2017 级本科生
 
 参加了第十届中国大学生服务外包创新创业大赛和天津师范大学校级大创项目
 
-目前正在研究ios开发
+目前正在研究 iOS 开发
 
 
 
