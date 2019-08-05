@@ -13,7 +13,7 @@ role = ""
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "A 2017 undergraduate student in software engineering at Tianjin Normal University,a member of the Cognitive and Affective Computing Lab at Tianjin Normal University,advised by Prof. Ziping Zhao."
+bio = "Code simplifies Life !"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "tjnulisen@outlook.com"
