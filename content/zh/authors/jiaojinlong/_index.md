@@ -20,7 +20,7 @@ organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" 
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "天津师范大学2017级软件工程本科生，主要研究方向：情感计算，机器学习。"
+bio = "天津师范大学2017级软件工程本科生，主要研究方向：情感计算，数据挖掘。"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
@@ -56,5 +56,7 @@ user_groups = ["主要成员"]
 我是天津师范大学软件工程专业二年级本科生，作为天津师范大学 iOS Club 核心成员参加了 2018 Nanjing Apple Summer Camp. 目前在天津师范大学情感智能国际研究中心认知与情感计算课题组赵子平导师指导下进行语音情感识别方向的研究。
 
 同时现在参与了“健康养老跨境服务支持理论与创新模式”项目开发。
+
+研究方向: 音频情感识别、 数据挖掘。
 
 更多关于我的信息: https://cyberjiao.top

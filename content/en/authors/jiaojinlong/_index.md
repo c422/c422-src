@@ -20,7 +20,7 @@ organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.e
 
 # Short bio (displayed in user profile at end of posts)
 
-bio = "My research interests include affective computing, machine learning and deep learning."
+bio = "My research interests include affective computing, data mining, and deep learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 
@@ -58,6 +58,7 @@ I am a core member of iOS Club and I have attended Apple Summer Camp  Nanjing of
 
 Currently participating in the project development of “support theory and innovation model of healthy pension cross-border service”.
 
-My research at TJNU is about applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at here. 
+Research interests: Speech and video emotion recognition, Data mining.
 
-More info about me: https://cyberjiao.top
+If you are interested, checkout my selected projects and publications at here.  
+ More info about me: https://cyberjiao.top
