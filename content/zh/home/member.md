@@ -10,7 +10,6 @@ subtitle = "Meet us."
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["指导教师",
-               "主要成员",
+user_groups = ["主要成员",
                "往届成员"]
 +++
