@@ -1,26 +1,26 @@
 +++
 # Display name
-name = "Yiqin Zhao"
+name = "Shuxuan Liu"
 
 # Username (this should match the folder name)
-authors = ["zhaoyiqin"]
+authors = ["liushuxuan"]
 
 # Role/position
-role = "Class 2019"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "Tianjin Normal University", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "I am a hacker and a researcher. My research interests include affective computing and machine learning."
+bio = "A undergaduate Software Engineeering student in Tianjin Normal University"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "yiqinzhao@outlook.com"
+email = "915825980@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Former"]
+user_groups = ["Current Members"]
 
 
 # Social/Academic Networking
@@ -31,13 +31,15 @@ user_groups = ["Former"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "weibo"
-  icon_pack = "fab"
-  link = "https://weibo.com/2394512141/profile"
+# [[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 +++
 
-I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
+I am a undergaduate Software Engineeering student in Tianjin Normal University.
 
-My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below. There are also a few creative open source application projects.
+I participated in the tenth section of China University Student Service Outsourcing Innovation and Entrepreneurship Competition and Tianjin Normal University School-level Daiso Project.
+
+Currently working on iOS development.

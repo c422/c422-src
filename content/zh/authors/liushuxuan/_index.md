@@ -1,26 +1,26 @@
 +++
 # Display name
-name = "赵一勤"
+name = "刘书璇"
 
 # Username (this should match the folder name)
-authors = ["zhaoyiqin"]
+authors = ["liushuxuan"]
 
 # Role/position
-role = "2019届"
+role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
 organizations = [ { name = "天津师范大学", url = "http://www.tjnu.edu.cn" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "天津师范大学2015级软件工程本科生，主要研究方向：情感计算，机器学习。"
+bio = "天津师范大学软件工程专业 2017 级本科生"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "yiqinzhao@outlook.com"
+email = "915825980@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["往届成员"]
+user_groups = ["主要成员"]
 
 
 # Social/Academic Networking
@@ -31,13 +31,19 @@ user_groups = ["往届成员"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
-  icon = "weibo"
-  icon_pack = "fab"
-  link = "https://weibo.com/2394512141/profile"
+# [[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 +++
 
-I am a senior undergaduate Software Engineeering student at Tianjin Normal University, Tianjin, China. I am also a key member of the Cognitive and Affective Computing Lab advised by Prof. Ziping Zhao at TJNU. I love both research and industrial, I had a wonderful internship experience at Baidu DuerOS department major in web development.
+天津师范大学软件工程专业 2017 级本科生
 
-My research at TJNU is focused on applied machine learning and affective computing. If you are interested, checkout my selected projects and publications at below. There are also a few creative open source application projects.
+参加了第十届中国大学生服务外包创新创业大赛和天津师范大学校级大创项目
+
+目前正在研究 iOS 开发
+
+
+
+

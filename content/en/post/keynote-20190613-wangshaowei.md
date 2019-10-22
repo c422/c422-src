@@ -1,6 +1,6 @@
 +++
-title = "[Keynote] Programming Language"
-summary = "Weekly keynote, topic programming language."
+title = "[Keynote] Memory model of the progress"
+summary = "Weekly keynote, Memory model of the progress"
 
 date = "2019-06-13T00:00:00+00:00"
 tags = []
