@@ -11,7 +11,7 @@ image = ""
 caption = ""
 +++
 
-Click [PDF](https://cdn.coden.hk/c422/weekly-keynote/2019-5-31-yangjin/5.30工作室分享会.pdf) and see details.
+Click [PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-5-31-yangjin/5.30工作室分享会.pdf) and see details.
 
 ## Point out an error
 

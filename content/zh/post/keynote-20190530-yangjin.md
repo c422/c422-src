@@ -11,7 +11,7 @@ image = ""
 caption = ""
 +++
 
-点击[PDF](https://cdn.coden.hk/c422/weekly-keynote/2019-5-31-yangjin/5.30工作室分享会.pdf)查看详情
+点击[PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-5-31-yangjin/5.30工作室分享会.pdf)查看详情
 
 ## 指出一个错误
 

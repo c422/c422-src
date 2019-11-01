@@ -10,15 +10,15 @@ authors = ["lisen"]
 image = ""
 caption = ""
 +++
-#### The sharing session mainly includes the knowledge points of  ***Python*** and ***Machine Learning***  
-#### 1. Python   
-- **`@ Decoration`**    
-   
-- **`__call__`**    
+#### The sharing session mainly includes the knowledge points of  ***Python*** and ***Machine Learning***
+#### 1. Python
+- **`@ Decoration`**
 
-#### 2. The algoriyhm of Machine Learning  
-- **SVM（Support Vector Machine）**  
-   
-- **KNN（k-NearestNeighbor）**     
+- **`__call__`**
 
-Click [Download PDF](https://cdn.coden.hk/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) and see details！
+#### 2. The algoriyhm of Machine Learning
+- **SVM（Support Vector Machine）**
+
+- **KNN（k-NearestNeighbor）**
+
+Click [Download PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) and see details！
