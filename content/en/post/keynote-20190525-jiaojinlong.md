@@ -13,7 +13,7 @@ caption = ""
 
 Weekly keynote, topic: **Research share**.
 
-## PPT 
+## PPT
 
-The topic I shared is Research share.Please refer to the attachment for details： [Download](https://cdn.coden.hk/c422/weekly-keynote/2019-05-25-jiaojinlong/%E5%AD%A6%E4%B9%A0%E5%88%86%E4%BA%AB.pptx)
+The topic I shared is Research share.Please refer to the attachment for details： [Download](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-05-25-jiaojinlong/%E5%AD%A6%E4%B9%A0%E5%88%86%E4%BA%AB.pptx)
 
