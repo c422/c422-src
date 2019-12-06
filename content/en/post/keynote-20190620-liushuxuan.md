@@ -15,4 +15,4 @@ caption = ""
 - Style design
 - Video production
 
-Click [PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-06-20-liushuxuan/0620工作室分享-刘书璇.pdf) and see details.
+Click [PDF](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-06-20-liushuxuan/0620工作室分享-刘书璇.pdf) and see details.

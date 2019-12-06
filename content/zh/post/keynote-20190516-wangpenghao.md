@@ -17,5 +17,5 @@ caption = ""
 ## PPT
 
 
-我分享的主题是论文写作与可持续集成，详情请查看附件：[下载](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-05-16-wangpenghao/学习小结0516-王鹏浩.pptx)
+我分享的主题是论文写作与可持续集成，详情请查看附件：[下载](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-05-16-wangpenghao/学习小结0516-王鹏浩.pptx)
 

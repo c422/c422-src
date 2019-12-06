@@ -15,6 +15,6 @@ caption = ""
 
 ## PPT
 
-点击 [Download PDF]( https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-06-13-wangshaowei/每周分享-王绍威.pdf) 查看ppt。
+点击 [Download PDF]( https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-06-13-wangshaowei/每周分享-王绍威.pdf) 查看ppt。
 
 注意: 整个内存模型是我根据自己的理解编的，与现实有些出入，但是更方便理解。
