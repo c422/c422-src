@@ -21,4 +21,4 @@ caption = ""
 
 - **KNN（k-NearestNeighbor）**
 
-Click [Download PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) and see details！
+Click [Download PDF](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) and see details！

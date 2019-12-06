@@ -21,6 +21,6 @@ caption = ""
 
 - **KNN（k 最邻近分类算法）**
 
-点击[下载分享会PDF](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) ，查看详情！
+点击[下载分享会PDF](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-06-06-lisen/keynote.pdf) ，查看详情！
 
 

@@ -15,5 +15,5 @@ Weekly keynote, topic: **programming language**.
 
 ## Whiteboard Notes
 
-![](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-05-09-zhaoyiqin/1.jpg)
-![](https://eyrie.coden.hk/space/?path=/c422/weekly-keynote/2019-05-09-zhaoyiqin/2.jpg)
+![](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-05-09-zhaoyiqin/1.jpg)
+![](https://eyrie.coden.hk/api/space?path=/c422/weekly-keynote/2019-05-09-zhaoyiqin/2.jpg)
