@@ -9,8 +9,7 @@ name = "ShaoWei Wang"
 authors = ["wangshaowei"]
 
 # Role/position
-
-role = ""
+role = "Class 2020"
 
 # Organizations/Affiliations
 
@@ -30,7 +29,7 @@ email = "mindul@qq.com"
 
 #   Set this to `[]` or comment out if you are not using People widget.
 
-user_groups = ["Current Members"]
+user_groups = ["Former"]
 
 # Social/Academic Networking
 
